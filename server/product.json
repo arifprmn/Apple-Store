@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Iphone Xr",
+        "slug":"Iphone-Xr",
+        "description":"Iphone terbaru dengan type Xr",
+        "price" :7000000,
+        "mainImg":"https://images.tokopedia.net/img/cache/700/OJWluG/2022/12/16/7035848d-6ecd-4cec-af63-f3fcc0548a17.jpg?ect=4g",
+        "categoryId":1,
+        "authorId":1
+    },
+    {
+        "name":"Iphone 11 Pro Max",
+        "slug":"Iphone-11-Pro-Max",
+        "description":"Iphone terbaru dengan type 11 Pro Max",
+        "price" :10000000,
+        "mainImg":"https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/04/07/2374870222.jpg",
+        "categoryId":1,
+        "authorId":1
+    },{
+        "name":"Ipad Pro",
+        "slug":"Ipad-Pro",
+        "description":"Ipad terbaru dengan type Pro",
+        "price":9000000,
+        "mainImg":"https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/04/07/2374870222.jpg",
+        "categoryId":2,
+        "authorId":1
+    },
+    {
+        "name":"Apple Watch Series 8",
+        "slug":"Apple-Watch-Series-8",
+        "description":"Apple Watch terbaru dengan type Series 8",
+        "price":5000000,
+        "mainImg":"https://cdn.eraspace.com/media/catalog/product/a/p/apple_watch_series_8_45mm_gps_midnight_aluminium_case_with_midnight_sport_band_1_1.jpg",
+        "categoryId":3,
+        "authorId":1
+    }
+]
